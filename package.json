@@ -1,0 +1,19 @@
+{
+  "name": "static-site-example",
+  "private": true,
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "handlebars": "4.0.10",
+    "metalsmith": "2.3.0",
+    "metalsmith-browserify": "0.2.4",
+    "metalsmith-in-place": "2.0.1",
+    "metalsmith-jade": "2.0.2",
+    "metalsmith-layouts": "1.8.1",
+    "metalsmith-permalinks": "0.5.0",
+    "metalsmith-serve": "0.0.7",
+    "metalsmith-watch": "1.0.3",
+    "moment": "2.18.1"
+  }
+}
